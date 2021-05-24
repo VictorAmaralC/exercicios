@@ -18,4 +18,4 @@
     substituí-las por outras que removam as situações de ineficiência. 
 
 - 5) Emissao de codigo 
-    
+        A fase de geração de código final é a última fase da compilação. A geração de um bom código objeto é difícil devido aos detalhes particulares das máquinas para os quais o código é gerado. Contudo, é uma fase importante, pois uma boa geração de código pode ser, por exemplo, duas vezes mais rápida que um algoritmo de geração de código ineficiente.
